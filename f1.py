@@ -1,4 +1,4 @@
 print(Hello World!)
-a = 10
-print(a)
+
 testline
+2 lines are deleted and 1 added from github
